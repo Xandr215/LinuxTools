@@ -1,1 +1,0 @@
-echo "Nah jit trippin'"
