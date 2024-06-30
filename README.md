@@ -5,3 +5,5 @@ LinuxTools is a collection of shell tools to do things on Linux.
 - LinuxUpdate
 - MP4 to MP3 (GUI version available)
 - MP4 First Frame Extractor (GUI version available)
+- MP3 Apply Metadata Album Art (GUI version available)
+- MP3 Extract Metadata Album Art (GUI version available)
