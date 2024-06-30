@@ -9,7 +9,7 @@ LinuxTools is a collection of shell tools to do things on Linux.
 - MP3 Extract Metadata Album Art (GUI version available)
 
 ### Tool Prerequisites
-- LinuxUpdate - Functioning APT and/or Flatpak and/or Snap command
+- LinuxUpdate - Functioning supported package manager (APT, nala, pacman, flatpak, snap) [GUI version - Functioning package manager and zenity]
 - MP4 to MP3 - FFmpeg (GUI version - FFmpeg and zenity)
 - MP4 First Frame Extractor - FFmpeg (GUI version - FFmpeg and zenity)
 - MP3 Apply Metadata Album Art - FFmpeg (GUI version - FFmpeg and zenity)
