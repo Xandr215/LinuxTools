@@ -1,4 +1,4 @@
-# Xandr's LinuxTools
+# [Xandr's LinuxTools](https://github.com/Xandr215/LinuxTools)
 ## Xandr's LinuxTools for terminal. Fully POSIX compatible!
 LinuxTools is a collection of shell tools to do things on Linux.
 ### Current Tools
